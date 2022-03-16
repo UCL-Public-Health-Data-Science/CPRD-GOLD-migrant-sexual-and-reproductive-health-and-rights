@@ -1,0 +1,52 @@
+metadata,category,readcode,readterm,medcode
+Name: chlamydia_test_cprd,1,A78AW00,"Chlamydial infection, unspecified",205965
+Version: 1                          ,4,A7z..00,Other viral or chlamydial disease NOS,205969
+Source: cprd,1,Ayu6100,[X]Other chlamydial diseases,206063
+Author: N PATHAK / Based on Carr 2015 study ,1,K40y100,Female chlamydial pelvic inflammatory disease,207468
+Date: 2/10/2019    ,1,A78A300,Chlamydial inf of pelviperitoneum oth genitourinary organs,214967
+Categories:,1,Ayu6200," [X]Chlamydial infection, unspecified",215059
+1. Chlamydial infection/test positive,1,K420900,Chlamydia cervicitis,225563
+2. Chlamydia test negative,1,A78AX00,"Chlamydial infection of genitourinary tract, unspecified",242170
+3. Chlamydia test NOS,1,Ayu4K00,"[X]Chlamydial infection of genitourinary tract, unspecified",242258
+4. Possible chlamydial infection,1,A78A000,Chlamydial infection of lower genitourinary tract,251351
+5. Chalmydia test declined,3,43U0.00,Chlamydia antigen by ELISA ,258276
+,3,43U..00,Chlamydia antigen test,267536
+,4,A7...00,Other viral and chlamydial diseases,278838
+,4,A78..00,Other viral or chlamydial diseases,278847
+,1,A78A.00,Chlamydial infection,278852
+,1,K241600,Chlamydial epididymitis,280340
+,1,43U1.00,Chlamydia antigen ELISA positive,285745
+,2,43U2.00,Chlamydia antigen ELISA negative,285746
+,4,A78y.00,Other specified viral and chlamydial diseases,287974
+,1,J550400,Chlamydial peritonitis,289351
+,1,A78A200,Chlamydial infection of anus and rectum,297184
+,4,A7y..00,Other specified viral or chlamydial diseases,297190
+,1,Ayu6.00, [X]Other diseases caused by chlamydiae,297288
+,1,0399C,INFECTION CHLAMYDIAL,302966
+,1,0399CT,CHLAMYDIA TRACHOMATIS,302967
+,3,43eJ.00,Chlamydia trachomatis IgG level,307938
+,3,43eC.00,Chlamydia trachomatis L2 antibody level,308079
+,3,43eF.00,Chlamydia group complement fixation test,308199
+,3,43eE.00,Chlamydia antibody level,308461
+,3,43h0.00,Chlamydia trachomatis polymerase chain reaction,308950
+,3,43WM.00,Chlamydia group antibody level,309472
+,3,43ez.00,Chlamydia trachomatis IgM level,309613
+,3,4JK9.00,Endocervical chlamydia swab,309766
+,3,4JKA.00,Urethral chlamydia swab,309829
+,3,43n9.00,Chlamydia trachomatis IgA level,332003
+,3,43U3.00,Chlamydia trachomatis antigen test,342066
+,3,43jK.00,Chlamydia deoxyribonucleic acid detection,342214
+,3,4JDM.00,Chlamydia serology,342310
+,3,68K7.00,Urine screen for chlamydia,343726
+,1,43U4.00,Chlamydia PCR positive ,343949
+,2,43U5.00,Chlamydia PCR negative,343968
+,1,46H6.00,Urine Chlamydia trachomatis test positive,344624
+,2,46H7.00,Urine Chlamydia trachomatis test negative,344736
+,5,8I3T.00,Chlamydia screening declined,345942
+,3,677L.00,Chlamydia screening counselling,346998
+,3,4JKD.00,Low vaginal swab for chlamydia taken by patient,347227
+,1,A78A500,Chlamydial infection of genital organs NEC,347301
+,3,9Oq0.00,Chlamydia test offered,347315
+,1,43U8.00,Chlamydia test positive,347970
+,2,43U6.00,Chlamydia test negative,348085
+,3,43U7.00,Chlamydia test equivocal,348329
