@@ -1,0 +1,317 @@
+metadata,category,prodcode,prodname,drugsubstance,bnfcode
+Name: contraception_cprdprod,1,39522,Naturelle Condoms 53mm at base (Pasante Healthcare),,66110000
+Version: 1                                  ,2,10486,Prentif Cavity Rim Cervical Cap 22mm (Williams Medical Supplies Ltd),,71110300
+Source: cprdprod,2,25642,Prentif Cavity Rim Cervical Cap 28mm (Williams Medical Supplies Ltd),,71110300
+Author: Neha Pathak                ,2,13590,Prentif Cavity Rim Cervical Cap 25mm (Williams Medical Supplies Ltd),,71110300
+Date: 2/10/2019                                 ,2,13469,Prentif Cavity Rim Cervical Cap 31mm (Williams Medical Supplies Ltd),,71110300
+Timestamp: 16:00              ,2,11339,Ortho coil spring rubber diaphragm 85mm (Janssen-Cilag Ltd),,0
+Categories:                                        ,2,17044,Vaginal contraceptive silicone diaphragm type C arcing spring 80mm,,7030451
+1. Condom,2,14645,Ortho coil spring rubber diaphragm 60mm (Janssen-Cilag Ltd),,71110900
+2. Cervical cap/diaphragm                 ,2,15700,Diaphragm Vaginal contraceptive device Type A 75mm,,7030400
+3. Combined vaginal ring            ,2,13974,Vaginal contraceptive rubber diaphragm type C arcing spring 80mm,,71110600
+4. Combined transdermal patch ,2,33882,Vaginal contraceptive silicone diaphragm type B coil spring 65mm,,7030451
+5. Combined oral contraceptive,2,38242,Milex omniflex coil spring silicone diaphragm 90mm (Durbin Plc),,07030451/71110700
+6. Progesterone-only oral contraceptive                    ,2,41955,Milex omniflex coil spring silicone diaphragm 60mm (Durbin Plc),,7030451
+7. Progesterone-only injectable contraceptive,2,22676,Diaphragm Vaginal contraceptive device Type A 70mm,,7030400
+8. Implant,2,33822,Watch-spring with perforated rubber diaphragm Pessary size XI,,65050100
+9. Hormonal intra-uterine system,2,13619,ORTHO ALL-FLEX ARCING DIAPHRAGM,,0
+10. Copper intra-uterine device                                     ,2,4832,Vaginal contraceptive rubber diaphragm type B coil spring 75mm,,0
+,2,25741,Vaginal contraceptive rubber diaphragm flat spring 90mm,,7030451
+,2,28892,Ortho coil spring rubber diaphragm 100mm (Janssen-Cilag Ltd),,0
+                                                   ,2,15785,Ortho all-flex type c-arcing spring diaphragm 85mm 85mm Diaphragm (Janssen-Cilag Ltd),,7030400
+                                                   ,2,4323,Ortho all-flex type c-arcing spring diaphragm 60mm 60mm Diaphragm (Janssen-Cilag Ltd),,7030400
+                                                   ,2,4857,Vaginal contraceptive rubber diaphragm type B coil spring 70mm,,0
+                                                   ,2,2272,DUREX DIAPHRAGM FLAT SPRING,,0
+                                                   ,2,57385,All Flex arcing spring rubber diaphragm 65mm (Janssen-Cilag Ltd),,71110600
+                                                   ,2,38873,Milex arcing spring silicone diaphragm 60mm (Durbin Plc),,7030451
+                                                   ,2,18709,DIAPHRAGM REFLEXIONS 80MM FLAT SPRING,,0
+                                                   ,2,13774,Ortho coil spring rubber diaphragm 90mm (Janssen-Cilag Ltd),,0
+                                                   ,2,35804,Vaginal contraceptive rubber diaphragm flat spring 95mm,,7030451
+                                                   ,2,36722,Milex omniflex coil spring silicone diaphragm 65mm (Durbin Plc),,07030451/71110700
+                                                   ,2,5846,Diaphragm Vaginal contraceptive device Type B 55mm,,7030400
+                                                   ,2,23521,Vaginal contraceptive rubber diaphragm type C arcing spring 60mm,,71110600
+                                                   ,2,44148,Milex arcing spring silicone diaphragm 65mm (Durbin Plc),,7030451
+                                                   ,2,14239,Vaginal contraceptive rubber diaphragm flat spring 65mm,,7030451
+                                                   ,2,39310,Vaginal contraceptive silicone diaphragm type B coil spring 90mm,,7030451
+                                                   ,2,37952,Vaginal contraceptive silicone diaphragm type C arcing spring 90mm,,7030451
+                                                   ,2,19188,Reflexions flat spring rubber diaphragm 85mm (Williams Medical Supplies Ltd),,7030451
+                                                   ,2,13693,Ortho coil spring rubber diaphragm 95mm (Janssen-Cilag Ltd),,0
+                                                   ,2,20252,Reflexions flat spring rubber diaphragm 65mm (Williams Medical Supplies Ltd),,7030451
+                                                   ,2,1927,ORTHO DIAPHRAGM,,0
+                                                   ,2,12941,Ortho All-Flex arcing spring silicone diaphragm 80mm (Janssen-Cilag Ltd),,7030451
+                                                   ,2,3963,Ortho All-Flex arcing spring silicone diaphragm 75mm (Janssen-Cilag Ltd),,7030451
+                                                   ,2,26131,Ortho all-flex type c-arcing spring diaphragm 90mm 90mm Diaphragm (Janssen-Cilag Ltd),,7030400
+                                                   ,2,24951,Vaginal contraceptive rubber diaphragm flat spring 85mm,,7030451
+                                                   ,2,18228,Vaginal contraceptive silicone diaphragm type B coil spring 75mm,,7030451
+                                                   ,2,23525,Vaginal contraceptive rubber diaphragm type C arcing spring 95mm,,71110600
+                                                   ,2,18601,Vaginal contraceptive rubber diaphragm flat spring 80mm,,7030451
+                                                   ,2,33158,Diaphragm Vaginal contraceptive device Type A 90mm,,7030400
+                                                   ,2,23524,Vaginal contraceptive rubber diaphragm type C arcing spring 90mm,,71110600
+                                                   ,2,5095,Ortho coil spring rubber diaphragm 75mm (Janssen-Cilag Ltd),,71110900
+                                                   ,2,33368,Vaginal contraceptive silicone diaphragm type C arcing spring 85mm,,7030451
+                                                   ,2,19229,Reflexions flat spring rubber diaphragm 60mm (Williams Medical Supplies Ltd),,7030451
+                                                   ,2,2242,Ortho All-Flex arcing spring silicone diaphragm 65mm (Janssen-Cilag Ltd),,7030451
+                                                   ,2,4861,Vaginal contraceptive rubber diaphragm type B coil spring 65mm,,0
+                                                   ,2,40132,Milex omniflex coil spring silicone diaphragm 85mm (Durbin Plc),,07030451/71110700
+                                                   ,2,58696,Milex arcing spring silicone diaphragm 90mm (Durbin Plc),,7030451
+                                                   ,2,29005,Vaginal contraceptive silicone diaphragm type B coil spring 80mm,,7030451
+                                                   ,2,39425,Milex omniflex coil spring silicone diaphragm 80mm (Durbin Plc),,07030451/71110700
+                                                   ,2,11045,Ortho coil spring rubber diaphragm 80mm (Janssen-Cilag Ltd),,0
+                                                   ,2,19095,Reflexions flat spring rubber diaphragm 55mm (Williams Medical Supplies Ltd),,7030451
+                                                   ,2,11070,Diaphragm Vaginal contraceptive device Type A 80mm,,7030400
+                                                   ,2,19099,Reflexions flat spring rubber diaphragm 70mm (Williams Medical Supplies Ltd),,7030451
+                                                   ,2,13660,Diaphragm Vaginal contraceptive device Type A 85mm,,7030400
+                                                   ,2,10350,Diaphragm Vaginal contraceptive device Type A 55mm,,7030400
+                                                   ,2,17638,Vaginal contraceptive rubber diaphragm flat spring 75mm,,7030451
+                                                   ,2,13681,Vaginal contraceptive rubber diaphragm type B coil spring 85mm,,0
+                                                   ,2,17057,Vaginal contraceptive silicone diaphragm type B coil spring 70mm,,7030451
+                                                   ,2,20251,Diaphragm Vaginal contraceptive device Type A 65mm,,7030400
+                                                   ,2,6244,Vaginal contraceptive rubber diaphragm type B coil spring 90mm,,0
+                                                   ,2,22843,DIAPHRAGM REFLEXIONS 75MM FLAT SPRING,,0
+                                                   ,2,22794,DIAPHRAGM REFLEXIONS 70MM FLAT SPRING,,0
+                                                   ,2,18724,DIAPHRAGM REFELXIONS 65MM FLAT SPRING,,0
+                                                   ,2,39701,Vaginal contraceptive silicone diaphragm type B coil spring 60mm,,7030451
+                                                   ,2,21131,Ortho type b-coil spring diaphragm 55mm 55mm Diaphragm (Janssen-Cilag Ltd),,7030400
+                                                   ,2,11294,Vaginal contraceptive rubber diaphragm type C arcing spring 75mm,,71110600
+                                                   ,2,21210,Ortho all-flex type c-arcing spring diaphragm 55mm 55mm Diaphragm (Janssen-Cilag Ltd),,7030400
+                                                   ,2,31977,Vaginal contraceptive rubber diaphragm type B coil spring 100mm,,0
+                                                   ,2,14633,Reflexions flat spring rubber diaphragm 75mm (Williams Medical Supplies Ltd),,7030451
+                                                   ,2,33024,Vaginal contraceptive silicone diaphragm type B coil spring 85mm,,7030451
+                                                   ,2,39699,Milex arcing spring silicone diaphragm 85mm (Durbin Plc),,7030451
+                                                   ,2,40486,Milex arcing spring silicone diaphragm 80mm (Durbin Plc),,7030451
+                                                   ,2,14240,Vaginal contraceptive rubber diaphragm flat spring 60mm,,7030451
+                                                   ,2,14046,Vaginal contraceptive rubber diaphragm type B coil spring 60mm,,0
+                                                   ,2,11281,Vaginal contraceptive rubber diaphragm type B coil spring 80mm,,0
+                                                   ,2,11143,Vaginal contraceptive rubber diaphragm type C arcing spring 70mm,,71110600
+                                                   ,2,13727,Vaginal contraceptive rubber diaphragm type B coil spring 95mm,,0
+                                                   ,2,14043,Vaginal contraceptive rubber diaphragm type C arcing spring 85mm,,71110600
+                                                   ,2,40889,Reflexions flat spring rubber diaphragm 95mm (Williams Medical Supplies Ltd),,7030451
+                                                   ,2,17045,Vaginal contraceptive silicone diaphragm type C arcing spring 75mm,,7030451
+                                                   ,2,2447,ORTHO COIL SPRING DIAPHRAGM,,0
+                                                   ,2,36988,Milex arcing spring silicone diaphragm 70mm (Durbin Plc),,7030451
+                                                   ,2,23522,Diaphragm Vaginal contraceptive device Type C 55mm,,7030400
+                                                   ,2,19502,Vaginal contraceptive silicone diaphragm type C arcing spring 70mm,,7030451
+                                                   ,2,27361,Diaphragm Vaginal contraceptive device Type A 60mm,,7030400
+                                                   ,2,14623,Ortho All-Flex arcing spring silicone diaphragm 70mm (Janssen-Cilag Ltd),,7030451
+                                                   ,2,3539,Ortho coil spring rubber diaphragm 70mm (Janssen-Cilag Ltd),,71110900
+                                                   ,2,36723,Milex omniflex coil spring silicone diaphragm 70mm (Durbin Plc),,7030451
+                                                   ,2,27180,Vaginal contraceptive rubber diaphragm flat spring 55mm,,7030451
+                                                   ,2,51419,All Flex arcing spring rubber diaphragm 80mm (Janssen-Cilag Ltd),,71110600
+                                                   ,2,51672,All Flex arcing spring rubber diaphragm 70mm (Janssen-Cilag Ltd),,71110600
+                                                   ,2,17620,Vaginal contraceptive rubber diaphragm flat spring 70mm,,7030451
+                                                   ,2,3867,Ortho coil spring rubber diaphragm 65mm (Janssen-Cilag Ltd),,71110900
+                                                   ,2,40260,Vaginal contraceptive silicone diaphragm type C arcing spring 65mm,,7030451
+                                                   ,2,23523,Vaginal contraceptive rubber diaphragm type C arcing spring 65mm,,71110600
+                                                   ,2,39287,Milex omniflex coil spring silicone diaphragm 75mm (Durbin Plc),,7030451
+                                                   ,2,40485,Milex arcing spring silicone diaphragm 75mm (Durbin Plc),,7030451
+                                                   ,2,57386,All Flex arcing spring rubber diaphragm 60mm (Janssen-Cilag Ltd),,71110600
+                                                   ,2,29564,Vaginal contraceptive silicone diaphragm type C arcing spring 60mm,,7030451
+                                                   ,2,20269,Reflexions flat spring rubber diaphragm 90mm (Williams Medical Supplies Ltd),,7030451
+                                                   ,2,27041,Ortho all-flex type c-arcing spring diaphragm 95mm 95mm Diaphragm (Janssen-Cilag Ltd),,7030400
+                                                   ,2,14922,Reflexions flat spring rubber diaphragm 80mm (Williams Medical Supplies Ltd),,7030451
+                                                   ,2,38555,FemCap 22mm (Durbin Plc),,7030451
+                                                   ,2,53182,FemCap 30mm (Durbin Plc),,7030451
+                                                   ,2,24166,FemCap 26mm (Durbin Plc),,7030451
+                                                   ,2,42059,Vaginal contraceptive cap silicone 26mm,,7030451
+                                                   ,2,33918,Vaginal contraceptive cap silicone 22mm,,7030451
+                                                   ,2,38075,Vaginal contraceptive cap type B 22mm,,71110300
+                                                   ,2,8815,Dumas Vault Cap No.1 (Williams Medical Supplies Ltd),,71110200
+                                                   ,2,18876,Vaginal contraceptive cap type A No.4,,71110200
+                                                   ,2,22317,Dumas Vault Cap No.3 (Williams Medical Supplies Ltd),,71110200
+                                                   ,2,21095,Vimule Cap No.1 (Williams Medical Supplies Ltd),,71110400
+                                                   ,2,10457,Vimule Cap No.2 (Williams Medical Supplies Ltd),,71110400
+                                                   ,2,14537,Dumas Vault Cap No.2 (Williams Medical Supplies Ltd),,71110200
+                                                   ,2,28848,Dumas Vault Cap No.4 (Williams Medical Supplies Ltd),,71110200
+                                                   ,2,26767,Vaginal contraceptive cap type A No.5,,71110200
+                                                   ,2,22163,Dumas Vault Cap No.5 (Williams Medical Supplies Ltd),,71110200
+                                                   ,2,10628,Vimule Cap No.3 (Williams Medical Supplies Ltd),,71110400
+                                                   ,3,40512,Ethinylestradiol 2.7mg / Etonogestrel 11.7mg vaginal delivery system,Ethinylestradiol/etonogestrel,7030151
+                                                   ,3,39517,NuvaRing 0.12mg/0.015mg per day vaginal delivery system (Merck Sharp & Dohme Ltd),Ethinylestradiol/Etonogestrel,7030151
+                                                   ,4,6596,Norelgestromin with ethinylestradiol 203micrograms + 33.9micrograms/24hours Transdermal patch,Ethinylestradiol,7030100
+                                                   ,4,29499,Ethinylestradiol 33.9micrograms/24hours / Norelgestromin 203micrograms/24hours transdermal patches,Ethinylestradiol/Norelgestromin,7030101
+                                                   ,4,6166,Evra transdermal patches (Janssen-Cilag Ltd),Ethinylestradiol/Norelgestromin,7030101
+                                                   ,5,37073,Sunya 20/75 tablets (Stragen UK Ltd),Gestodene/Ethinylestradiol,7030150
+                                                   ,5,44229,Millinette 20microgram/75microgram tablets (Consilient Health Ltd),Gestodene/Ethinylestradiol,7030150
+                                                   ,5,61088,Generic Logynon tablets,,7030152
+                                                   ,5,8176,Ethinylestradiol 20microgram / Norethisterone acetate 1mg tablets,Norethisterone acetate/Ethinylestradiol,7030150
+                                                   ,5,3436,Ortho-novin 1/50 Tablet (Janssen-Cilag Ltd),Norethisterone/Mestranol,7030100
+                                                   ,5,44336,Gedarel 30microgram/150microgram tablets (Consilient Health Ltd),Desogestrel/Ethinylestradiol,7030152
+                                                   ,5,49700,Marvelon tablets (DE Pharmaceuticals),Desogestrel/Ethinylestradiol,7030152
+                                                   ,5,18569,Gestodene with ethinylestradiol 75microgramwith20microgram Tablet,Ethinylestradiol,7030100
+                                                   ,5,14670,Ethinylestradiol with norethisterone - biphasic 7 x 35mcg+500mcg; 14 x 35mcg+1mg Tablet,Ethinylestradiol,7030100
+                                                   ,5,45059,Ethinylestradiol with levonorgestrel 30micrograms + 50micrograms Tablet,Ethinylestradiol,7030100
+                                                   ,5,3693,Triadene tablets (Bayer Plc),,7030152
+                                                   ,5,36829,Katya 30/75 tablets (Stragen UK Ltd),Gestodene/Ethinylestradiol,7030152
+                                                   ,5,19131,Ethinylestradiol with gestodene and placebo 30micrograms + 75micrograms Tablet,Ethinylestradiol,7030100
+                                                   ,5,57181,Lizinna 250microgram/35microgram tablets (Morningside Healthcare Ltd),Norgestimate/Ethinylestradiol,7030152
+                                                   ,5,23211,Desogestrel with ethinylestradiol 150micrograms with 30micrograms tablets,Ethinylestradiol,7030100
+                                                   ,5,47132,Co-cyprindiol 2mg+35microgram Tablet (Sandoz Ltd),Cyproterone acetate/Ethinylestradiol,07030100/13060202
+                                                   ,5,49214,Cilest 250microgram/35microgram tablets (Mawdsley-Brooks & Company Ltd),Norgestimate/Ethinylestradiol,7030152
+                                                   ,5,40650,Ethinylestradiol with norethisterone 35micrograms + 750micrograms Tablet,Ethinylestradiol,7030100
+                                                   ,5,61190,Co-cyprindiol 2000microgram/35microgram tablets (A A H Pharmaceuticals Ltd),Cyproterone acetate/Ethinylestradiol,07030100/13060202/13090200
+                                                   ,5,15987,Ethinylestradiol with norethisterone - triphasic 7 x 35+500mcg; 7 x 35+750mcg; 7 x 35mcg+1mg Tablet,Ethinylestradiol,7030100
+                                                   ,5,41,Microgynon 30 tablets (Bayer Plc),Levonorgestrel/Ethinylestradiol,7030152
+                                                   ,5,44046,Rigevidon tablets (Consilient Health Ltd),Levonorgestrel/Ethinylestradiol,7030152
+                                                   ,5,14459,Gynovlar 21 Tablet (Schering Health Care Ltd),Ethinylestradiol,7030100
+                                                   ,5,11910,Ethinylestradiol 20microgram / Gestodene 75microgram tablets,Gestodene/Ethinylestradiol,7030150
+                                                   ,5,5862,Norinyl-1 tablets (Pfizer Ltd),Norethisterone/Mestranol,7030152
+                                                   ,5,14601,Ethinylestradiol 35microgram / Norgestimate 250microgram tablets,Norgestimate/Ethinylestradiol,7030152
+                                                   ,5,4964,Femodette tablets (Bayer Plc),Gestodene/Ethinylestradiol,7030150
+                                                   ,5,25124,Acnocin 2000microgram/35microgram tablets (Sandoz Ltd),Cyproterone acetate/Ethinylestradiol,07030100/13060202/13090200
+                                                   ,5,1352,Loestrin 30 tablets (Galen Ltd),Norethisterone acetate/Ethinylestradiol,7030152
+                                                   ,5,1601,Trinovum tablets (Janssen-Cilag Ltd),,7030100
+                                                   ,5,4608,Dianette tablets (Generics (UK) Ltd),Cyproterone acetate/Ethinylestradiol,07030100/13060202/13090200
+                                                   ,5,2856,Norimin 1mg/35microgram tablets (Pfizer Ltd),Norethisterone/Ethinylestradiol,7030152
+                                                   ,5,31902,Cicafem 2000/35 tablets (Galen Ltd),Cyproterone acetate/Ethinylestradiol,07030100/13060202/13090200
+                                                   ,5,22603,Clairette 2000/35 tablets (Stragen UK Ltd),Cyproterone acetate/Ethinylestradiol,07030100/13060202/13090200
+                                                   ,5,8482,Ethinylestradiol 35microgram / Norethisterone 1mg tablets,Norethisterone/Ethinylestradiol,7030152
+                                                   ,5,56553,Generic Trinovum tablets,,7030100
+                                                   ,5,59503,Lucette 0.03mg/3mg tablets (Consilient Health Ltd),Drospirenone/Ethinylestradiol,7030152
+                                                   ,5,44278,TriRegol tablets (Consilient Health Ltd),,7030152
+                                                   ,5,936,Femodene tablets (Bayer Plc),Gestodene/Ethinylestradiol,7030152
+                                                   ,5,56483,Generic Tri-Minulet tablets,,7030152
+                                                   ,5,443,Desogestrel with ethinylestradiol 150micrograms with 20micrograms tablets,Ethinylestradiol,7030100
+                                                   ,5,977,Minulet tablets (Wyeth Pharmaceuticals),Gestodene/Ethinylestradiol,7030150
+                                                   ,5,56311,Yaz tablets (Imported (United States)),,07030152/13060202
+                                                   ,5,6431,Co-cyprindiol 2000microgram/35microgram tablets,Cyproterone acetate/Ethinylestradiol,07030100/13060202/13090200
+                                                   ,5,47057,Yasminelle 3mg+20microgram Tablet (Bayer Plc),Ethinylestradiol,7030100
+                                                   ,5,31528,Ethinylestradiol with norethisterone - triphasic 7x35+500mcg; 9x35mcg+1mg; 5x35+500mcg Tablet,Ethinylestradiol,7030100
+,5,59149,Generic Qlaira tablets,,7030100
+,5,53201,Dianette tablets (Lexon (UK) Ltd),Cyproterone acetate/Ethinylestradiol,07030100/13060202/13090200
+,5,44994,Millinette 30microgram/75microgram tablets (Consilient Health Ltd),Gestodene/Ethinylestradiol,7030152
+,5,3472,Trinovum ed ED tablets (Janssen-Cilag Ltd),Ethinylestradiol,7030100
+,5,13248,Ethinylestradiol 30microgram / Desogestrel 150microgram tablets,Desogestrel/Ethinylestradiol,7030152
+,5,7814,Ethinylestradiol 35microgram / Norethisterone 500microgram tablets,Norethisterone/Ethinylestradiol,7030152
+,5,14977,Ethinylestradiol with gestodene - triphasic 6 x 30+50mcg; 5 x 40+70mcg; 10 x 30+100mcg Tablet,Ethinylestradiol,7030100
+,5,1062,Ovranette 150microgram/30microgram tablets (Pfizer Ltd),Levonorgestrel/Ethinylestradiol,7030152
+,5,1378,Mercilon 150microgram/20microgram tablets (Merck Sharp & Dohme Ltd),Desogestrel/Ethinylestradiol,7030150
+,5,12631,Ethinylestradiol with levonorgestrel and placebo 30micrograms + 150micrograms Tablet,Ethinylestradiol,7030100
+,5,25263,Norgestimate with ethinylestradiol 250micrograms + 35micrograms Tablet,Ethinylestradiol,7030100
+,5,8103,Conova 30 Tablet (Pharmacia Ltd),Ethinylestradiol,7030100
+,5,1354,Brevinor 500microgram/35microgram tablets (Pfizer Ltd),Norethisterone/Ethinylestradiol,7030152
+,5,15886,Ethinylestradiol with levonorgestrel - triphasic 6x30+50mcg; 5x40+75mcg; 10x30+125mcg Tablet,Ethinylestradiol,7030100
+,5,52443,Microgynon 30 tablets (Mawdsley-Brooks & Company Ltd),Levonorgestrel/Ethinylestradiol,7030152
+,5,19551,Controvlar Tablet (Schering Health Care Ltd),Ethinylestradiol,7030100
+,5,697,Yasmin tablets (Bayer Plc),Drospirenone/Ethinylestradiol,7030152
+,5,38500,Co-cyprindiol 2000microgram/35microgram tablets (Fannin UK Ltd),Cyproterone acetate/Ethinylestradiol,07030100/13060202/13090200
+,5,7776,Ethinylestradiol 30microgram / Gestodene 75microgram tablets,Gestodene/Ethinylestradiol,7030152
+,5,6686,Ethinylestradiol 30microgram / Levonorgestrel 150microgram tablets,Levonorgestrel/Ethinylestradiol,7030152
+,5,58642,Cimizt 30microgram/150microgram tablets (Morningside Healthcare Ltd),Desogestrel/Ethinylestradiol,7030152
+,5,45557,Levest 150/30 tablets (Actavis UK Ltd),Levonorgestrel/Ethinylestradiol,7030152
+,5,42510,Ethinylestradiol with levonorgestrel Tablet,Ethinylestradiol,7030100
+,5,57264,Estradiol 1.5mg / Nomegestrol 2.5mg tablets,Estradiol hemihydrate/Nomegestrol,7030152
+,5,60739,Yaz tablets (Imported (United States)),,07030152/13060202
+,5,1071,Cilest 250microgram/35microgram tablets (Janssen-Cilag Ltd),Norgestimate/Ethinylestradiol,7030152
+,5,44457,Gedarel 20microgram/150microgram tablets (Consilient Health Ltd),Desogestrel/Ethinylestradiol,7030150
+,5,3538,Neocon 1/35 Tablet (Cilag Pharmaceuticals Ltd),Norethisterone/Ethinylestradiol,7030100
+,5,47281,Elevin 150microgram/30microgram tablets (MedRx Healthcare LLP),Levonorgestrel/Ethinylestradiol,7030152
+,5,2769,Cyproterone acetate with ethinylestradiol 2mg with 35micrograms tablets,Ethinylestradiol,07030100/13060202
+,5,2084,Ovran 30 Tablet (Wyeth Pharmaceuticals),Levonorgestrel/Ethinylestradiol,7030100
+,5,935,Marvelon tablets (Merck Sharp & Dohme Ltd),Desogestrel/Ethinylestradiol,7030152
+,5,40618,Estradiol valerate and (estradiol valerate with dienogest) tablets,Estradiol Valerate,7030100
+,5,21343,Minovlar ed Tablet (Schering Health Care Ltd),Ethinylestradiol,7030100
+,5,2354,Ovysmen 500microgram/35microgram tablets (Janssen-Cilag Ltd),Norethisterone/Ethinylestradiol,7030152
+,5,976,Schering PC4 Tablet (Schering Health Care Ltd),Ethinylestradiol,7030100
+,5,3471,Femodene ED tablets (Bayer Plc),,7030152
+,5,1988,Binovum tablets (Janssen-Cilag Ltd),,7030152
+,5,125,Dianette tablets (Bayer Plc),Cyproterone acetate/Ethinylestradiol,07030100/13060202/13090200
+,5,21733,Gestodene with ethinylestradiol 75microgramwith30microgram Tablet,Ethinylestradiol,7030100
+,5,23218,Ethinylestradiol with cyproterone acetate 35microgram with 2mg tablets,Ethinylestradiol,07030100/13060202
+,5,56539,Zoely 2.5mg/1.5mg tablets (Merck Sharp & Dohme Ltd),Estradiol hemihydrate/Nomegestrol,7030152
+,5,43009,Minovlar 21 Tablet (Schering Health Care Ltd),Ethinylestradiol,7030100
+,5,52818,Yasmin tablets (Mawdsley-Brooks & Company Ltd),Drospirenone/Ethinylestradiol,7030152
+,5,51482,Generic Microgynon 30 ED tablets,,7030152
+,5,5576,Synphase tablets (Pfizer Ltd),,7030152
+,5,16110,Ethinylestradiol 20microgram / Desogestrel 150microgram tablets,Desogestrel/Ethinylestradiol,7030150
+,5,6716,Ethinylestradiol 30microgram / Drospirenone 3mg tablets,Drospirenone/Ethinylestradiol,7030152
+,5,43003,Levest 150/30 tablets (Morningside Healthcare Ltd),Levonorgestrel/Ethinylestradiol,7030152
+,5,33098,Diva 2000/35 tablets (Zeroderma Ltd),Cyproterone acetate/Ethinylestradiol,07030100/13060202/13090200
+,5,17756,Mestranol 50microgram / Norethisterone 1mg tablets,Norethisterone/Mestranol,7030152
+,5,4917,Microgynon 30 ED tablets (Bayer Plc),,7030152
+,5,9119,Minilyn Tablet (Organon Laboratories Ltd),Lynestrenol,7030100
+,5,1427,Loestrin 20 tablets (Galen Ltd),Norethisterone acetate/Ethinylestradiol,7030150
+,5,61962,Acondro 0.03mg/3mg tablets (Generics (UK) Ltd),Drospirenone/Ethinylestradiol,7030152
+,5,23897,Ethinylestradiol with levonorgestrel - triphasic with placebo 6x30+50mcg; 5x40+75mcg; 10x30+125mcg Tablet,Ethinylestradiol,7030100
+,5,18823,Ethinylestradiol 30microgram / Norethisterone acetate 1.5mg tablets,Norethisterone acetate/Ethinylestradiol,7030152
+,5,56868,Generic Logynon ED tablets,,7030152
+,5,978,Logynon tablets (Bayer Plc),,7030152
+,5,13810,Ethinylestradiol with levonorgestrel for post-coital contraception 50micrograms + 250micrograms Tablet,Ethinylestradiol,7030100
+,5,59383,Lestramyl 30microgram/150microgram tablets (Generics (UK) Ltd),Desogestrel/Ethinylestradiol,7030152
+,5,40305,Qlaira tablets (Bayer Plc),,7030100
+,5,61808,Ethinylestradiol 30microgram / Levonorgestrel 150microgram tablets (A A H Pharmaceuticals Ltd),Levonorgestrel/Ethinylestradiol,7030152
+,6,2265,Etynodiol 500microgram tablets,Etynodiol diacetate,7030201
+,6,54527,Cerelle 75microgram tablets (Consilient Health Ltd),Desogestrel,7030201
+,6,2061,Norethisterone 350microgram tablets,Norethisterone,7030201
+,6,239,Micronor 350microgram tablets (Janssen-Cilag Ltd),Norethisterone,7030201
+,6,1720,Levonorgestrel 30microgram tablets,Levonorgestrel,7030201
+,6,1348,Noriday 350microgram tablets (Pfizer Ltd),Norethisterone,7030201
+,6,54800,Desorex 75microgram tablets (Somex Pharma),Desogestrel,7030201
+,6,10201,Desogestrel 75microgram tablets,Desogestrel,7030201
+,6,1613,Microval 30microgram tablets (Wyeth Pharmaceuticals),Levonorgestrel,7030201
+,6,56103,Cerelle 75microgram tablets (Consilient Health Ltd),Desogestrel,7030201
+,6,5986,Cerazette 75microgram tablets (Merck Sharp & Dohme Ltd),Desogestrel,7030201
+,6,56732,Aizea 75microgram tablets (Besins Healthcare (UK) Ltd),Desogestrel,7030201
+,6,61890,Desogestrel 75microgram tablets (A A H Pharmaceuticals Ltd),Desogestrel,7030201
+,6,55819,Nacrez 75microgram tablets (Teva UK Ltd),Desogestrel,7030201
+,6,59414,Desogestrel 75microgram tablets (Actavis UK Ltd),Desogestrel,7030201
+,6,2553,Norgeston 30microgram tablets (Bayer Plc),Levonorgestrel,7030201
+,6,1466,Femulen 500microgram tablets (Pfizer Ltd),Etynodiol diacetate,7030201
+,6,61465,Feanolla 75microgram tablets (Lupin (Europe) Ltd),Desogestrel,7030201
+,6,48570,Cerazette 75microgram tablets (Mawdsley-Brooks & Company Ltd),Desogestrel,7030201
+,6,58485,Zelleta 75microgram tablets (Morningside Healthcare Ltd),Desogestrel,7030201
+,6,57748,Desomono 75microgram tablets (MedRx Developments Ltd),Desogestrel,7030201
+,7,59213,Medroxyprogesterone 104mg/0.65ml suspension for injection pre-filled disposable devices,Medroxyprogesterone acetate,7030202
+,7,57542,Depo-Provera 150mg/1ml suspension for injection pre-filled syringes (Waymade Healthcare Plc),Medroxyprogesterone acetate,7030202
+,7,3892,Depo-provera 50mg/ml Injection (Pharmacia Ltd),Medroxyprogesterone Acetate,7030202
+,7,35075,Medroxyprogesterone 150mg/1ml suspension for injection pre-filled syringes,Medroxyprogesterone acetate,7030202
+,7,967,Depo-Provera 150mg/1ml suspension for injection vials (Pfizer Ltd),Medroxyprogesterone acetate,0
+,7,35001,Depo-Provera 150mg/1ml suspension for injection pre-filled syringes (Pfizer Ltd),Medroxyprogesterone acetate,7030202
+,7,51351,Depo-Provera 150mg/1ml suspension for injection pre-filled syringes (Necessity Supplies Ltd),Medroxyprogesterone acetate,7030202
+,7,57037,Sayana Press 104mg/0.65 ml suspension for injection pre-filled disposable devices (Pfizer Ltd),Medroxyprogesterone acetate,7030202
+,7,49666,Depo-Provera 150mg/1ml suspension for injection pre-filled syringes (Mawdsley-Brooks & Company Ltd),Medroxyprogesterone acetate,7030202
+,7,3445,Medroxyprogesterone acetate contraceptive 50mg/ml Injection,Medroxyprogesterone Acetate,7030202
+,7,3982,Medroxyprogesterone acetate contraceptive 150mg/ml Injection,Medroxyprogesterone Acetate,7030202
+,7,49518,Depo-Provera 150mg/1ml suspension for injection pre-filled syringes (DE Pharmaceuticals),Medroxyprogesterone acetate,7030202
+,7,9824,Norethisterone 200mg/1ml solution for injection ampoules,Norethisterone enantate,7030202
+,7,15389,Noristerat 200mg/1ml solution for injection ampoules (Bayer Plc),Norethisterone enantate,7030202
+,7,25076,NORISTERAT (1ML),,0
+,8,13209,Etonogestrel 68mg implant,Etonogestrel,7030202
+,8,9592,Implanon 68mg implant (Organon Laboratories Ltd),Etonogestrel,7030202
+,8,44196,Nexplanon 68mg implant (Merck Sharp & Dohme Ltd),Etonogestrel,7030202
+,8,2819,Norplant 228mg Implant (Hoechst Marion Roussel),Levonorgestrel,7030202
+,9,2748,Mirena 20micrograms/24hours intrauterine device (Bayer Plc),Levonorgestrel,07030203/07030450
+,9,57359,Mirena 20micrograms/24hours intrauterine device (Mawdsley-Brooks & Company Ltd),Levonorgestrel,07030203/07030450
+,9,6906,Levonorgestrel 20micrograms/24hours intrauterine device,Levonorgestrel,07030203/07030450
+,9,60564,Levonorgestrel 13.5mg intrauterine device,Levonorgestrel,7030203
+,9,60632,Jaydess 13.5mg intrauterine device (Bayer Plc),Levonorgestrel,7030203
+,10,1196,Novagard type 6 Intrauterine device (Pharmacia Ltd),Copper,7030450
+,10,18826,Multi-Safe 375 intrauterine contraceptive device (Williams Medical Supplies Ltd),,7030450
+,10,51443,Novaplus T 380 Cu intrauterine contraceptive device normal (R.F. Medical Supplies Ltd),,7030450
+,10,50899,Novaplus T 380 Ag intrauterine contraceptive device normal (R.F. Medical Supplies Ltd),,7030450
+,10,938,Nova-T intrauterine contraceptive device (Schering Health Care Ltd),,71110100
+,10,26488,Neo-Safe T380 intrauterine contraceptive device (Williams Medical Supplies Ltd),,7030450
+,10,2747,Multiload Cu250 intrauterine contraceptive device (Organon Laboratories Ltd),,71110100
+,10,55209,Novaplus T 380 Cu intrauterine contraceptive device mini (R.F. Medical Supplies Ltd),,7030450
+,10,45739,Optima TCu 380A intrauterine contraceptive device (Farla Medical Ltd),,7030450
+,10,56568,Novaplus T 380 Ag intrauterine contraceptive device maxi (R.F. Medical Supplies Ltd),,7030450
+,10,36995,UT380 Short intrauterine contraceptive device (Durbin Plc),,7030450
+,10,58198,Novaplus T 380 Ag intrauterine contraceptive device mini (R.F. Medical Supplies Ltd),,7030450
+,10,14295,Flexi-T+ 380 intrauterine contraceptive device (Durbin Plc),,7030450
+,10,14959,TT380 Slimline intrauterine contraceptive device (Durbin Plc),,7030450
+,10,5647,T-Safe 380A QL intrauterine contraceptive device (Williams Medical Supplies Ltd),,7030450
+,10,5265,Multiload Cu375 intrauterine contraceptive device (Organon Laboratories Ltd),,7030450
+,10,5405,Nova-T 380 intrauterine contraceptive device (Bayer Plc),,7030450
+,10,12146,Ortho-gyne type 4a iucd -t Intrauterine device (Janssen-Cilag Ltd),Copper,7030450
+,10,14158,Multiload Cu250 Short intrauterine contraceptive device (Organon Laboratories Ltd),,71110100
+,10,49127,Copper T380 A intrauterine contraceptive device (R.F. Medical Supplies Ltd),,07030400/07030450
+,10,13678,Ortho-gyne type 4b Intrauterine device T380S (Janssen-Cilag Ltd),Copper,7030450
+,10,36984,Mini TT380 Slimline intrauterine contraceptive device (Durbin Plc),Copper,7030450
+,10,33367,Load 375 intrauterine contraceptive device (Durbin Plc),,7030450
+,10,21686,GyneFixPT intrauterine contraceptive device (Family Planning Sales Ltd),,71110100
+,10,43404,Steriload intrauterine contraceptive device (Farla Medical Ltd),,7030450
+,10,4904,Gyne-T 380S intrauterine device (Janssen-Cilag Ltd),,0
+,10,19143,GyneFix intrauterine contraceptive device (Williams Medical Supplies Ltd),,7030450
+,10,14038,Flexi-T 300 intrauterine contraceptive device (Durbin Plc),,7030450
+,10,38015,UT380 Standard intrauterine contraceptive device (Durbin Plc),,7030450
+,10,17785,COIL SAF-T,,0
+,10,19700,COIL NOVA-T,,0
