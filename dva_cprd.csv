@@ -1,0 +1,22 @@
+metadata,category,readcode,readterm,medcode
+Name: dva_cprd,1,14XG.00,Victim of domestic abuse,107316
+Version: 1                          ,1,Z415.00,Domestic abuse counselling,30298
+Source: cprd,1,14XD.00,History of domestic abuse,93502
+Author: Neha Pathak,1,67Ia.11,Advice about domestic abuse,82472
+Date: 02/10/2019              ,1,14X3.00,History of domestic violence,11572
+Categories:,1,8Hl7.00,Referral to domestic violence advocate,102501
+1. Domestic violence and abuse,1,9GA..00,Notifctn received of alleged domestic violence in household,110392
+,1,67Ia.00,Advice about domestic violence,26418
+,1,14X8.00,Victim of domestic violence,12684
+,1,14XE.00,History of being victim of domestic violence,105329
+,2,U3M0.00,"[X]Neglect and abandonment, by spouse or partner",37113
+,2,U3P0.00,"[X]Maltreatment, by spouse or partner",104936
+,1,9NDJ.00,Police domestic incident report received,108157
+,2,SN56300,Battered wife,3321
+,2,SN56100,"Battered woman, unspecified",27889
+,2,13HA.00,Battered wife - history,22873
+,1,13Hm.00,Subject of multi-agency risk assessment conference,103571
+,1,8T0b.00,Referral to multi-agency risk assessment conference,110365
+,2,13HD.00,Violent spouse,3483
+,1,67Ia.00,Advice about domestic violence,26418
+,1,U3N0.00,"[X]Other maltreatment syndromes, by spouse or partner",28484
