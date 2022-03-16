@@ -1,0 +1,17 @@
+metadata,,category,readcode,readterm,medcode
+Name: ec_cprd,,2,61A..11,Morning-after pill,6635
+Version: 1                          ,,2,61A1.11,Post coital pills given,26475
+Source: cprd,,2,61A1.00,Morning after' pills given,715
+Author: Neha Pathak ,,2,61F1.00,Prescribed post-coital OCP,22949
+Date: 1/10/2019    ,,3,61A2.00,Morning after' IUD fitted,38544
+Categories:,,3,61F..00,Post-coital c'cept procedures,14850
+1. H/O,,3,61A2.11,Post-coital IUD fitted,42310
+2. Oral emergency contraception consultation ,,4,61AZ.00,Post-coital contraception NOS,15806
+3. Intrauterine emergency contraception consultation,,4,8BV..00,Emergency contraception indicated,106646
+4. Emergency contraception consultation (not specified or general advice only),,4,61FZ.00,Post-coital contraception NOS,22935
+5. Emergency contraception failure consultation,,4,61A..00,Post-coital contraception,6759
+,,4,61M..00,Emergency contraception,8538
+,,4,614F.00,Emergency contraception advice,6477
+,,4,8IEj.00,Emergency contraception declined,107774
+,,5,61F4.00,Post-coital IUCD failure,64238
+,,5,61F3.00,Post-coital OCP failure,46180
